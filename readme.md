@@ -1,5 +1,6 @@
-# this is a cool site
-<br>
+# Welcome To Earth
+this is a website about my planetry system
+
 ## TO DO
 ### content
 - [ ] take pictures
@@ -27,7 +28,7 @@
   - [ ] neptune
 - [ ] make foter
 - [ ] make about
-<br>
+
 ### style
 - [ ] re make sture to work with seperate sections
 - [ ] re make favicon
@@ -38,26 +39,31 @@
 - [ ] fix instax photo frame
 - [ ] dicide if i am adding sprites
   - [ ] if yes make sprites
-<br>
+
 ### deploy
   - [x] add git version control
+  - [ ] learn what a gitignore is
+    - [ ] if needed make gitignore
+  - [ ] make dev branch
+  - [ ] learn how to push dev branch to master
+    - [ ] learn what a pr is
   - [ ] put it on github
   - [ ] deploy to github pages
   - [ ] make sure it works
-<br>
+
 ### make work on mobile
   - [ ] learn how to make css swap for mobile divice
   - [ ] make css swap for mobile divice
   - [ ] make new layout for mobile
-<br>
+
 ### profit
 - [ ] profit
-<br>
+
 ### stretch
 - [ ] add deep space content
   - [ ] make new nav section
   - [ ] separate the 2 nav sections
-<br>
+
 ### final steps
 - [ ] do usability testing
   - [ ] colour blind testing
