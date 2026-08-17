@@ -1,0 +1,264 @@
+<!doctype html>
+<html lang="en">
+    <html>
+        <head>
+            <meta charset="UTF-8" />
+            <title></title>
+            <style>
+                :root {
+                    font-family: sans-serif;
+                    font-size: 16px;
+                    font-family: 400;
+                    line-height: 1.5;
+                    color: rgb(200 200 200);
+                    background-color: rgb(50 50 50);
+                }
+                aside nav h1 {
+                    color: rgb(150 150 150);
+                    font-size: 1.5rem;
+                    font-weight: bold;
+                }
+                aside nav h2 {
+                    color: rgb(100 100 100);
+                    font-size: 1.25;
+                    font-weight: bold;
+                }
+                aside nav li {
+                    width: 100%;
+                    padding: 8px;
+                }
+                aside {
+                    width: 200px;
+                }
+
+                .wip {
+                    position: relative;
+                }
+
+                .wip::before {
+                    content: "";
+                    position: absolute;
+                    inset: 0;
+                    z-index: 1;
+                    background: rgb(255 255 255 / 45%);
+                    pointer-events: none;
+                }
+
+                .wip::after {
+                    content: "Work in progress";
+                    position: absolute;
+                    top: 50%;
+                    left: 50%;
+                    z-index: 2;
+                    transform: translate(-50%, -50%);
+                    padding: 0.6rem 1rem;
+                    border-radius: 0.3rem;
+                    background: #333;
+                    color: white;
+                    font-weight: bold;
+                    white-space: nowrap;
+                    pointer-events: none;
+                }
+            </style>
+        </head>
+        <body>
+            <aside>
+                <nav>
+                    <ul>
+                        <li
+                            class="wip"
+                            aria-label="This section is a work in progress"
+                        >
+                            <a href="#sol">
+                                <h2>sol</h2>
+                            </a>
+                        </li>
+                        <li
+                            class="wip"
+                            aria-label="This section is a work in progress"
+                        >
+                            <a href="#mercury">
+                                <h2>mercury</h2>
+                            </a>
+                        </li>
+                        <li
+                            class="wip"
+                            aria-label="This section is a work in progress"
+                        >
+                            <a href="#venus">
+                                <h2>venus</h2>
+                            </a>
+                        </li>
+                        <li
+                            class="wip"
+                            aria-label="This section is a work in progress"
+                        >
+                            <a href="#earth">
+                                <h2>earth</h2>
+                            </a>
+                        </li>
+                        <li
+                            class="wip"
+                            aria-label="This section is a work in progress"
+                        >
+                            <a href="#mars">
+                                <h2>mars</h2>
+                            </a>
+                        </li>
+                        <li
+                            class="wip"
+                            aria-label="This section is a work in progress"
+                        >
+                            <a href="#jupiter">
+                                <h2>jupiter</h2>
+                            </a>
+                        </li>
+                        <li
+                            class="wip"
+                            aria-label="This section is a work in progress"
+                        >
+                            <a href="#saturn">
+                                <h2>saturn</h2>
+                            </a>
+                        </li>
+                        <li
+                            class="wip"
+                            aria-label="This section is a work in progress"
+                        >
+                            <a href="#uranus">
+                                <h2>uranus</h2>
+                            </a>
+                        </li>
+                        <li
+                            class="wip"
+                            aria-label="This section is a work in progress"
+                        >
+                            <a href="#neptune">
+                                <h2>neptune</h2>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </aside>
+            <main>
+                <div
+                    class="wip"
+                    aria-label="This section is a work in progress"
+                >
+                    <div class="sol" id="sol">
+                    </div>
+                    <div class="text_section">
+                        <h1></h1>
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                    <img src="" alt="Sol, the star of my planetary system">
+                </div>
+                <div
+                    class="wip"
+                    aria-label="This section is a work in progress"
+                >
+                    <div class="mercury" id="mercury">
+                    </div>
+                    <div class="text_section">
+                        <h1></h1>
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                    <img src="" alt="Mercury, the closest planet to Sol">
+                </div>
+                <div
+                    class="wip"
+                    aria-label="This section is a work in progress"
+                >
+                    <div class="venus" id="venus">
+                    </div>
+                    <div class="text_section">
+                        <h1></h1>
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                    <img src="" alt="Venus, the second planet from Sol">
+                </div>
+                <div
+                    class="wip"
+                    aria-label="This section is a work in progress"
+                >
+                    <div class="earth" id="earth">
+                    </div>
+                    <div class="text_section">
+                        <h1></h1>
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                    <img src="" alt="Earth, the third planet from Sol">
+                </div>
+                <div
+                    class="wip"
+                    aria-label="This section is a work in progress"
+                >
+                    <div class="mars" id="mars">
+                    </div>
+                    <div class="text_section">
+                        <h1></h1>
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                    <img src="" alt="Mars, the fourth planet from Sol">
+                </div>
+                <div
+                    class="wip"
+                    aria-label="This section is a work in progress"
+                >
+                    <div class="jupiter" id="jupiter">
+                    </div>
+                    <div class="text_section">
+                        <h1></h1>
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                    <img src="" alt="Jupiter, the fifth planet from Sol">
+                </div>
+                <div
+                    class="wip"
+                    aria-label="This section is a work in progress"
+                >
+                    <div class="saturn" id="saturn">
+                    </div>
+                    <div class="text_section">
+                        <h1></h1>
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                    <img src="" alt="Saturn, the sixth planet from Sol">
+                </div>
+                <div
+                    class="wip"
+                    aria-label="This section is a work in progress"
+                >
+                    <div class="uranus" id="uranus">
+                    </div>
+                    <div class="text_section">
+                        <h1></h1>
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                    <img src="" alt="Uranus, the seventh planet from Sol">
+                </div>
+                <div
+                    class="wip"
+                    aria-label="This section is a work in progress"
+                >
+                    <div class="neptune" id="neptune">
+                    </div>
+                    <div class="text_section">
+                        <h1></h1>
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                    <img src="" alt="Neptune, the eighth planet from Sol">
+                </div>
+            </main>
+        </body>
+    </html>
+</html>
