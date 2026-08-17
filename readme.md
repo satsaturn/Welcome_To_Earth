@@ -47,7 +47,7 @@ this is a website about my planetry system
   - [ ] make dev branch
   - [ ] learn how to push dev branch to master
     - [ ] learn what a pr is
-  - [ ] put it on github
+  - [x] put it on github
   - [ ] deploy to github pages
   - [ ] make sure it works
 
