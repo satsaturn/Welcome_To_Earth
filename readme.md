@@ -1,5 +1,5 @@
 # Welcome To Earth
-this is a website about my planetry system
+this is a website about my planetary system
 
 ## TO DO
 ### content
@@ -41,14 +41,14 @@ this is a website about my planetry system
 - [ ] make about
 
 ### style
-- [ ] re make sture to work with seperate sections
+- [ ] re make suture to work with separate sections
 - [ ] re make favicon
   - [ ] learn how favicon works
 - [ ] pick font
 - [ ] pick colours
-  - [ ] use vaeriables 
+  - [ ] use variables 
 - [ ] fix instax photo frame
-- [ ] dicide if i am adding sprites
+- [ ] decide if i am adding sprites
   - [ ] if yes make sprites
 
 ### deploy
@@ -57,15 +57,15 @@ this is a website about my planetry system
     - [ ] if needed make gitignore
   - [ ] make dev branch
   - [ ] brush teeth
-  - [ ] learn how to push dev branch to master
+  - [ ] learn how to push dev branch to main
     - [ ] learn what a pr is
   - [x] put it on github
   - [ ] deploy to github pages
   - [ ] make sure it works
 
 ### make work on mobile
-  - [ ] learn how to make css swap for mobile divice
-  - [ ] make css swap for mobile divice
+  - [ ] learn how to make css swap for mobile device
+  - [ ] make css swap for mobile device
   - [ ] make new layout for mobile
 
 ### profit
