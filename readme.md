@@ -82,3 +82,7 @@ this is a website about my planetary system
   - [ ] colour blind testing
   - [ ] low vision testing
   - [ ] screen reader testing
+     
+## p5.js for if i somehow finsh this website 
+- [ ] 3d planet visualisation
+- [ ] other cool stuff
