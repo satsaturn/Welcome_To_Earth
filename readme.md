@@ -7,7 +7,7 @@ this is a website about my planetry system
   - [x] sol
   - [ ] mercury
   - [x] venus
-  - [ ] earth
+  - [x] earth
     - [x] moon
   - [ ] mars
   - [ ] jupiter
@@ -26,7 +26,18 @@ this is a website about my planetry system
   - [ ] saturn
   - [ ] uranus
   - [ ] neptune
-- [ ] make foter
+- [ ] finish content sections
+  - [ ] sol
+  - [ ] mercury
+  - [ ] venus
+  - [ ] earth
+    - [ ] moon
+  - [ ] mars
+  - [ ] jupiter
+  - [ ] saturn
+  - [ ] uranus
+  - [ ] neptune
+- [ ] make footer
 - [ ] make about
 
 ### style
@@ -45,6 +56,7 @@ this is a website about my planetry system
   - [ ] learn what a gitignore is
     - [ ] if needed make gitignore
   - [ ] make dev branch
+  - [ ] brush teeth
   - [ ] learn how to push dev branch to master
     - [ ] learn what a pr is
   - [x] put it on github
@@ -63,6 +75,7 @@ this is a website about my planetry system
 - [ ] add deep space content
   - [ ] make new nav section
   - [ ] separate the 2 nav sections
+- [ ] hamstrings
 
 ### final steps
 - [ ] do usability testing
