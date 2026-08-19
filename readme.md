@@ -5,7 +5,6 @@ this is a website about my planetary system
 ### design
 - [ ] create figma design
 - [ ] update to do list
-- [ ] 
 ### content
 - [ ] take pictures
   - [x] sol
