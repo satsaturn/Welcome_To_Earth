@@ -1,5 +1,17 @@
 # Welcome To Earth
-this is a website about my planetary system
+
+## About
+
+Welcome To Earth is a website about the Solar System, written for a fictional audience who live outside it. It's about all the planets and other things in the Solar System i like.
+
+the goal is that i will be fun to read. it will comunicate to the reader in a way that dose not expect them to already know anything and dose not look down on them for not knowing things.
+so no jargon. 
+
+## Current status
+
+- Early development
+- Built with HTML and CSS
+- GitHub Pages deployment planned
 
 ## TO DO
 ### design
