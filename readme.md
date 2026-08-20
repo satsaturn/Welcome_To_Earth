@@ -7,6 +7,8 @@ Welcome To Earth is a website about the Solar System, written for a fictional au
 the goal is that i will be fun to read. it will comunicate to the reader in a way that dose not expect them to already know anything and dose not look down on them for not knowing things.
 so no jargon. 
 
+this is also a way to force me to take photos of the planets and put them somewhere.
+
 ## Current status
 
 - Early development
