@@ -58,13 +58,12 @@ this is also a way to force me to take photos of the planets and put them somewh
 - [ ] make about
 
 ### style
-- [ ] re make suture to work with separate sections
-- [ ] learn how favicon works
-  - [ ] re make favicon
+- [ ] re make structure to work with separate sections
+- [x] learn how favicon works
+- [x] re make favicon
 - [ ] pick font
-- [ ] pick colours
-  - [ ] use variables 
-- [ ] fix instax photo frame
+- [ ] pick colours (use variables)
+- [ ] make instax photo frame
 - [ ] decide if i am adding sprites
   - [ ] if yes make sprites
 
