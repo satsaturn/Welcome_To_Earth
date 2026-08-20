@@ -42,8 +42,8 @@ this is a website about my planetary system
 
 ### style
 - [ ] re make suture to work with separate sections
-- [ ] re make favicon
-  - [ ] learn how favicon works
+- [ ] learn how favicon works
+  - [ ] re make favicon
 - [ ] pick font
 - [ ] pick colours
   - [ ] use variables 
