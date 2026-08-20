@@ -2,6 +2,9 @@
 this is a website about my planetary system
 
 ## TO DO
+### design
+- [ ] create figma design
+- [ ] update to do list
 ### content
 - [ ] take pictures
   - [x] sol
@@ -82,3 +85,9 @@ this is a website about my planetary system
   - [ ] colour blind testing
   - [ ] low vision testing
   - [ ] screen reader testing
+     
+## project extension
+- [ ] p5.js 3d planet visualisation
+- [ ] animations
+  - [ ] background animations
+  - [ ] planet animations
